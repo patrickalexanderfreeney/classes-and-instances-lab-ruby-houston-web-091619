@@ -1,8 +1,6 @@
 class Person
-  # def initialize(name)
-  #   @name = name
-  # end
+  
 end 
 
-adele_goldberg = person.new 
-alan_kay = person.new 
+adele_goldberg = Person.new 
+alan_kay = Person.new  
