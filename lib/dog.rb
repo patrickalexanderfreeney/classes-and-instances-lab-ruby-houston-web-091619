@@ -1,4 +1,4 @@
-class Dog
+class Dog(name)
 @fido = dog
 @snoopy = dog 
 @lassie = dog 
