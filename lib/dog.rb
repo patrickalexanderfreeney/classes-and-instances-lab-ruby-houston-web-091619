@@ -1,5 +1,5 @@
-class Dog(name)
-@fido = dog
-@snoopy = dog 
-@lassie = dog 
+class Dog
+  def initialize(name)
+    
+  end
 end 
